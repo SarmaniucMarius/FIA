@@ -16,7 +16,7 @@ There are two modes in the simulation: flocking and attacking. In flocking mode 
 ## Screenshots
 Below you can see a screen from the simulation
 
-![Forward Chaining](simulation_screen.JPG)
+![Simulation](simulation_screenshot.JPG)
 
 ## Technologies
 1. Python 2.7
